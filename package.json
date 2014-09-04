@@ -1,5 +1,5 @@
 {
-  "name": "quickstart",
+  "name": "nodejs-test-fun",
   "description": "Appengine node.js quickstart project",
   "version": "0.0.1",
   "dependencies": {
